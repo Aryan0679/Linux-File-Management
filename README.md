@@ -1,4 +1,4 @@
-## Scenario: File System Authorization Management
+## Scenario
 
 You are a security professional at a large organization. You mainly work with their research team. Part of your job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure.
 
@@ -12,4 +12,4 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 ## Skills Learned
 
-- Using command-line tools (e.g., `ls -l`, `ls -la`, `chmod`) to manage file permissions
+-  command-line tools (e.g., `ls -l`, `ls -la`, `chmod`) to manage file permissions
