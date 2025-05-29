@@ -12,4 +12,4 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 ## Skills Learned
 
--  command-line tools (e.g., `ls -l`, `ls -la`, `chmod`) to manage file permissions
+-  Command-line tools (e.g., `ls -l`, `ls -la`, `chmod`) to manage file permissions
